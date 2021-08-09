@@ -47,7 +47,8 @@ const { handleSubmit,handleChange,values,errors} = useFormik({
     //     })
 
    
-  
+   try{
+          console.log(JSON.stringify(values))
 
     axios.post("http://localhost:4008/account",values).then(res=>res.data).then((data)=>{
           //alert("User Onboarded successfully");
@@ -62,6 +63,9 @@ const { handleSubmit,handleChange,values,errors} = useFormik({
     ).catch((err)=>{
             console.log("err")
         })
+     catch(Exception){
+         Swal.fire(Exception,"","error");
+       }
 }
 
 
