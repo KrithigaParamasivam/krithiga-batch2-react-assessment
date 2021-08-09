@@ -1,0 +1,51 @@
+{
+    "account": [
+      {
+        "id": 1,
+        "firstname": "gayathiri",
+        "lastname": "r",
+        "emailid": "krithiyazzz@gmail.com",
+        "phonenumber": "887867676",
+        "password":"kiki@14",
+        "confirmpassword":"kiki@14"
+
+    
+      },
+
+      {
+        "id": 1,
+        "firstname": "kaviya",
+        "lastname": "r",
+        "emailid": "kaviya@gmail.com",
+        "phonenumber": "887867676",
+        "password":"kavi@14",
+        "confirmpassword":"kavi@14"
+
+    
+      },
+      {
+        "id": 2,
+        "firstname": "krithiga",
+        "lastname": "p",
+        "emailid": "krithi@gmail.com",
+        "phonenumber": "887867676",
+        "password":"kiki@14",
+        "confirmpassword":"kiki@14"
+
+    
+      },
+      {
+        "id": 3,
+        "firstname": "sakthi",
+        "lastname": "r",
+        "emailid": "sakthi@gmail.com",
+        "phonenumber": "887867676",
+        "password":"sakthi@14",
+        "confirmpassword":"sakthi@14"
+
+    
+      }
+   
+    ]
+  }
+
